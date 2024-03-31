@@ -1,1 +1,1 @@
-# Project 1 Digital time capsole
+# Project 1 Digital time capsule
